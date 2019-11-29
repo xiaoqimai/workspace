@@ -1,0 +1,7 @@
+Automatically find dpdk's commit
+
+1.This script runs in Python 3 environment
+2.DTS needs to be configured in advance
+3.Modify a cfg/commit.cfg file
+4.Modify configuration testerIP and caseName in main.py
+5.Put the dpdk.tar.gz in the dep path

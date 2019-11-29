@@ -1,0 +1,9 @@
+commit 6e586321bc823c1d59b9787552e81fe4088d3b2c
+Author: Xiao Qimai <qimaix.xiao@intel.com>
+Date:   Fri Nov 15 13:51:45 2019 +0800
+
+    framework/pmd_output: fix regex to match file_prefix argument
+    
+    testpmd can accept eal parameter file_prefix without equal mark
+    
+    Signed-off-by: Xiao Qimai <qimaix.xiao@intel.com>
